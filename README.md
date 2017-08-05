@@ -27,6 +27,9 @@ desired airport's [ICAO code](http://airportsbase.org/))
 * [FlightRadar24 airport traffic](https://www.flightradar24.com/airport/jfk/map)
 (For monitoring flights in other airports, change "jfk" to your desired
 airport's [IATA code in lowercase](http://airportsbase.org/))
+* [Stuff in Space](http://stuffin.space/): Satellites and space debris.
+* [International Space Station](http://www.lizard-tail.com/isana/tracking/)
+
 
 ### Weather
 
@@ -42,6 +45,7 @@ airport's [IATA code in lowercase](http://airportsbase.org/))
 
 * [Tweetping](https://www.tweetping.net/): Live Twitter activity.
 * [TorFlow](https://torflow.uncharted.software/): Live Tor activity.
+* [Nasa Deep Space Network](https://eyes.nasa.gov/dsn/dsn.html)
 
 ### Finance
 
@@ -62,6 +66,7 @@ airport's [IATA code in lowercase](http://airportsbase.org/))
 * [MalwareTech](https://intel.malwaretech.com/pewpew.html)
 * [ThreatButt](https://threatbutt.com/map/)
 * [CheckPoint](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
+* [Bitdefender](https://threatmap.bitdefender.com/)
 
 #### Security intelligence feeds/dashboards
 
