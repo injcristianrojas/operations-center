@@ -68,6 +68,7 @@ airport's [IATA code in lowercase](http://airportsbase.org/))
 * [ThreatButt](https://threatbutt.com/map/)
 * [CheckPoint](https://threatmap.checkpoint.com/ThreatPortal/livemap.html)
 * [Bitdefender](https://threatmap.bitdefender.com/)
+* [Talos](https://talosintelligence.com/)
 
 #### Security intelligence feeds/dashboards
 
