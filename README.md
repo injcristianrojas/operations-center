@@ -73,6 +73,7 @@ airport's [IATA code in lowercase](http://airportsbase.org/))
 #### Security intelligence feeds/dashboards
 
 * [Security Wizardry Radar](http://www.securitywizardry.com/radar.htm)
+* [BreachAware](https://app-01.prd.eu-west-2.breachaware.com/dashboard)
 
 ## Browsers and browser tools
 
